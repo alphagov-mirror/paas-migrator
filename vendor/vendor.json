@@ -1,0 +1,333 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "H9R0ngQGwGUlGTan3WFRrf8b/ok=",
+			"path": "code.cloudfoundry.org/credhub-cli/commands",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "ADLy1s3SIYPDqJAIs1r3ZgsBzHI=",
+			"path": "code.cloudfoundry.org/credhub-cli/config",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "i+vt/a4bAgdwX9+wA0Ds54Rx5Rk=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "apXrbFb40lfkOqgLecwjbeOgNqw=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/auth",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "iyCKqYDt1UNx3Z0bqY4MA1o/oVs=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/auth/uaa",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "zs+1Hz0eHxBrYYpQf2ijoOQtOeM=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/credentials",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "1bSG5vE45E+uXfhEBN2Np0It/HM=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/credentials/generate",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "z0kNeF/iISiZ4a34iif9pGjjry8=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/credentials/values",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "thbDoi42DoKlqIHb7eic8YoKvWo=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/permissions",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "uyO4Y+9P3m8H6Gxrz2i2wSBuGO4=",
+			"path": "code.cloudfoundry.org/credhub-cli/credhub/server",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "jR4tVJh4j3bbyQZ0k46eH285gdc=",
+			"path": "code.cloudfoundry.org/credhub-cli/errors",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "tDI5xDiJUT4/GOpXAiZQqJa+jkY=",
+			"path": "code.cloudfoundry.org/credhub-cli/models",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "NLkaFPd3mGPm8k/rC0IrotqrOhE=",
+			"path": "code.cloudfoundry.org/credhub-cli/test",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "TSciEE9bC1q/fDyBWQlsw9MLn64=",
+			"path": "code.cloudfoundry.org/credhub-cli/util",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "peXGWRELvScGRS8sCPs3TYqcTgA=",
+			"path": "code.cloudfoundry.org/credhub-cli/version",
+			"revision": "5eb075f352b09ca6612c894cc930e03eb07dc33b",
+			"revisionTime": "2019-08-14T16:11:21Z"
+		},
+		{
+			"checksumSHA1": "81XDMUP7pB0Nap6LMPV7YIfk6RA=",
+			"path": "github.com/armon/go-socks5",
+			"revision": "e75332964ef517daa070d7c38a9466a0d687e0a5",
+			"revisionTime": "2016-09-02T18:42:37Z"
+		},
+		{
+			"checksumSHA1": "VQyH5Hbi+9zoksuaWYNvz5Hsy8U=",
+			"path": "github.com/bmatcuk/doublestar",
+			"revision": "2437321e1473408f122a95f65df3d8841fec4fba",
+			"revisionTime": "2019-08-02T01:06:08Z"
+		},
+		{
+			"checksumSHA1": "OM/3R5cfm4hLnvDLTKVxZJlQnIw=",
+			"path": "github.com/charlievieth/fs",
+			"revision": "7dc373669fa10ddf827c37c595dee30a2f001be9",
+			"revisionTime": "2017-06-13T21:55:19Z"
+		},
+		{
+			"checksumSHA1": "GsrANrMTb+PKV/W8VBOwr5wf72w=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/commands",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "ADNccBomroQRNN5Vff7Ras5u6K0=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/config",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "iUJkoSYpT+MKGP8kSq98c5jjoV4=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "p5roAwzM6Gt1lFgCBnnpaeueEKI=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/auth",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "6JWGaBjK6UbEW3X8PHCBww4W1TU=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/auth/uaa",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "0y9PWUAjXnedtc6eYvzGUG9cO6o=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "WDotTqWoUsW/H2CHHffboJawlVA=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/generate",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "JplFc9jm3LH9OLi46VoWx0PHzRk=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "d8y9HunZWJmjxlms5SNfWPrrur8=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/permissions",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "vw6rPmQv+pLW2njOrCVkMgZhlOQ=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/credhub/server",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "anj+0jH7yfR7C3+WFmEMje1doi8=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/errors",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "hrXdqb7I07f962xZ4eT4U8DqCqU=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/models",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "Z2QL834QslE+yHHkolnNl6r21II=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/util",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "a140xFSb/+XHJNOTZDlvDEcs4gc=",
+			"path": "github.com/cloudfoundry-incubator/credhub-cli/version",
+			"revision": "f00bc2f38515c473238b854a99fc2aba8666d6d2",
+			"revisionTime": "2019-06-28T19:24:55Z",
+			"version": "2.5.2",
+			"versionExact": "2.5.2"
+		},
+		{
+			"checksumSHA1": "SEL4ZCl5bUgMoohOXu5nAKOPcls=",
+			"path": "github.com/cloudfoundry/bosh-cli/director/template",
+			"revision": "5240e8aa8f1612f32edd8507058884ee52ffd1c6",
+			"revisionTime": "2019-08-03T10:02:43Z"
+		},
+		{
+			"checksumSHA1": "XUEqokh4XuQQEZVHjjuqFjNH1ck=",
+			"path": "github.com/cloudfoundry/bosh-utils/assert",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "AZ9pc447jfnhON1EpHWR53RKA7Y=",
+			"path": "github.com/cloudfoundry/bosh-utils/errors",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "QdMdbKoDOihvYHUVJZxCmSjy+BQ=",
+			"path": "github.com/cloudfoundry/bosh-utils/logger",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "c0HRWOcZvWzurVQRikkImD06t/I=",
+			"path": "github.com/cloudfoundry/bosh-utils/logger/loggerfakes",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "hj7iYrYBolm79T1PbAT8QDNakG4=",
+			"path": "github.com/cloudfoundry/bosh-utils/system",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "u3CWiv3cWxn26T/5UNHXztIzf7U=",
+			"path": "github.com/cloudfoundry/bosh-utils/system/fakes",
+			"revision": "701ecef9262dd61cda41a511781e9b49a426241b",
+			"revisionTime": "2019-08-17T10:02:17Z"
+		},
+		{
+			"checksumSHA1": "3MKdoF9Mh8gxo8zF0mf5F1oVD84=",
+			"path": "github.com/cloudfoundry/go-socks5",
+			"revision": "54f73bdb8a8e85a6611d3d29ab9bbf98c2a060d7",
+			"revisionTime": "2018-02-21T17:45:14Z"
+		},
+		{
+			"checksumSHA1": "ZCAVOikRa05O/zGi4haqbesSJZI=",
+			"path": "github.com/cloudfoundry/socks5-proxy",
+			"revision": "633b6fe4c3d8d72a4e7397a948027db02a8e2a96",
+			"revisionTime": "2019-04-02T21:56:40Z",
+			"version": "v0.2.0",
+			"versionExact": "v0.2.0"
+		},
+		{
+			"checksumSHA1": "64+91dGANWH+PAtE7oAz0H2QVY4=",
+			"path": "github.com/cloudfoundry/socks5-proxy/fakes",
+			"revision": "633b6fe4c3d8d72a4e7397a948027db02a8e2a96",
+			"revisionTime": "2019-04-02T21:56:40Z",
+			"version": "v0.2.0",
+			"versionExact": "v0.2.0"
+		},
+		{
+			"checksumSHA1": "PNgR0+HNIGLmdMIRM2o51fiApMM=",
+			"path": "github.com/cppforlife/go-patch/patch",
+			"revision": "90228d47281247384683e5fded0f15afa3e5d29a",
+			"revisionTime": "2018-12-18T19:56:56Z"
+		},
+		{
+			"checksumSHA1": "3KhDEC5MM0iyN+FsLfxpnvFVeuY=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "d8f796af33cc11cb798c1aaeb27a4ebc5099927d",
+			"revisionTime": "2018-08-30T19:11:22Z"
+		},
+		{
+			"checksumSHA1": "a2yC46a1qsJomgY6rb+FkTFiqmE=",
+			"path": "github.com/davecgh/go-spew/spew/testdata",
+			"revision": "d8f796af33cc11cb798c1aaeb27a4ebc5099927d",
+			"revisionTime": "2018-08-30T19:11:22Z"
+		},
+		{
+			"checksumSHA1": "XC6s8JOUHX9AIr23WWeuu9VoH+8=",
+			"path": "github.com/nu7hatch/gouuid",
+			"revision": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3",
+			"revisionTime": "2013-12-21T20:05:32Z"
+		},
+		{
+			"checksumSHA1": "OyeP0Sp/PT/Nc5wpA7OlbNJ2XPQ=",
+			"path": "github.com/onsi/ginkgo/extensions/table",
+			"revision": "7e8b50db0c6d0a15ac0eb015d4ca64e7e7e2c88c",
+			"revisionTime": "2019-08-19T20:07:42Z"
+		},
+		{
+			"checksumSHA1": "RZOdTSZN/PgcTqko5LzIAzw+UT4=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "5d4384ee4fb2527b0a1256a821ebfc92f91efefc",
+			"revisionTime": "2018-12-26T10:54:42Z"
+		},
+		{
+			"checksumSHA1": "OHK0GAgeySXMMiqH/84b80WoPNU=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "221dbe5ed46703ee255b1da0dec05086f5035f62",
+			"revisionTime": "2019-05-17T17:51:56Z"
+		}
+	],
+	"rootPath": "github.com/alphagov/migrator"
+}

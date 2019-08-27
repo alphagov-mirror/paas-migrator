@@ -21,7 +21,7 @@ var (
 )
 
 var _ = SynchronizedBeforeSuite(func() []byte {
-	executable_path, err := Build("github.com/ishustava/migrator")
+	executable_path, err := Build("github.com/alphagov/migrator")
 	Expect(err).NotTo(HaveOccurred())
 	return []byte(executable_path)
 }, func(data []byte) {

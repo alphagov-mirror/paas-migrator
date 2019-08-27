@@ -10,7 +10,7 @@ import (
 	"io/ioutil"
 	"encoding/json"
 	"github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values"
-	"github.com/ishustava/migrator/test_fixtures"
+	"github.com/alphagov/migrator/test_fixtures"
 	"os"
 )
 

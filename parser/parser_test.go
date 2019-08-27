@@ -3,10 +3,10 @@ package parser_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/ishustava/migrator/test_fixtures"
+	. "github.com/alphagov/migrator/test_fixtures"
 	"github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values"
-	"github.com/ishustava/migrator/credentials"
-	"github.com/ishustava/migrator/parser"
+	"github.com/alphagov/migrator/credentials"
+	"github.com/alphagov/migrator/parser"
 )
 
 var _ = Describe("Parser", func() {

@@ -3,11 +3,11 @@ package credhub_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/ishustava/migrator/credhub/credhubfakes"
-	"github.com/ishustava/migrator/credentials"
+	"github.com/alphagov/migrator/credhub/credhubfakes"
+	"github.com/alphagov/migrator/credentials"
 	"github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values"
 	credentials2 "github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials"
-	"github.com/ishustava/migrator/credhub"
+	"github.com/alphagov/migrator/credhub"
 	credhub2 "github.com/cloudfoundry-incubator/credhub-cli/credhub"
 	"errors"
 )

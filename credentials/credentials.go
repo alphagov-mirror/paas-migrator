@@ -1,15 +1,15 @@
 package credentials
 
 import (
+	"code.cloudfoundry.org/credhub-cli/credhub/credentials/values"
 	. "github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials"
-	"github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values"
 )
 
 type Credentials struct {
-	Passwords []Password
+	Passwords    []Password
 	Certificates []Certificate
-	SshKeys []SSH
-	RsaKeys []RSA
+	SshKeys      []SSH
+	RsaKeys      []RSA
 }
 
 func NewPassword(name, value string) Password {

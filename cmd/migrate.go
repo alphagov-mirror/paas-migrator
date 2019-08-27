@@ -1,15 +1,16 @@
 package cmd
 
 import (
-	credhubClient "github.com/cloudfoundry-incubator/credhub-cli/credhub"
-	"github.com/cloudfoundry-incubator/credhub-cli/commands"
-	"github.com/cloudfoundry-incubator/credhub-cli/credhub/auth"
-	"gopkg.in/yaml.v2"
 	"io/ioutil"
-	"github.com/ishustava/migrator/parser"
-	"github.com/ishustava/migrator/credhub"
 	"os"
-	"github.com/ishustava/migrator/pki"
+
+	"code.cloudfoundry.org/credhub-cli/credhub/auth"
+	"github.com/cloudfoundry-incubator/credhub-cli/commands"
+	credhubClient "github.com/cloudfoundry-incubator/credhub-cli/credhub"
+	"github.com/alphagov/migrator/credhub"
+	"github.com/alphagov/migrator/parser"
+	"github.com/alphagov/migrator/pki"
+	"gopkg.in/yaml.v2"
 )
 
 type MigrateCommand struct {

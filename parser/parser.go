@@ -2,10 +2,11 @@ package parser
 
 import (
 	"errors"
-	"gopkg.in/yaml.v2"
-	"github.com/cloudfoundry-incubator/credhub-cli/credhub/credentials/values"
-	. "github.com/ishustava/migrator/credentials"
 	"path"
+
+	"code.cloudfoundry.org/credhub-cli/credhub/credentials/values"
+	. "github.com/alphagov/migrator/credentials"
+	"gopkg.in/yaml.v2"
 )
 
 func AddBoshNamespacing(varsStore map[string]interface{}, directorName, deploymentName string) map[string]interface{} {
@@ -83,4 +84,3 @@ func tryUnmarshalRsa(value interface{}) (values.RSA, error) {
 
 	return rsa, err
 }
-

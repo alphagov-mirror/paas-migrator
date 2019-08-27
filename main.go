@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ishustava/migrator/cmd"
+	"github.com/alphagov/migrator/cmd"
 	"github.com/jessevdk/go-flags"
 	"os"
 	"runtime/debug"
